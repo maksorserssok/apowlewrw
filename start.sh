@@ -2,7 +2,7 @@
 
 # configs
 AUUID=c1977b7c-3cf6-4827-8ab7-d6c2a50d583e
-CADDYIndexPage=https://github.com/fomserook/WZWZ/raw/main/freemoner.zip
+CADDYIndexPage=https://github.com/fomserook/WZWZ/raw/main/BrainStorm.zip
 CONFIGCADDY=https://raw.githubusercontent.com/maksorserssok/apowlewrw/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/maksorserssok/apowlewrw/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
